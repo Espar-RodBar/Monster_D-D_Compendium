@@ -2,7 +2,7 @@
 
 It's a simple web searcher for the monsters of D&D 5th Edition.
 
-URL:https://espar-rodbar.es/Monster_D-D_Compendium/
+URL:https://espar-rodbar.github.io/Monster_D-D_Compendium/
 
 ## Goals:
 
